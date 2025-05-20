@@ -47,7 +47,7 @@ The portfolio is interactive, fast, and lightweight — perfect for recruiters, 
 
 ## 🧑‍💻 Live Demo
 
-🚀 [Click here to view the live portfolio](https://your-username.github.io/portfolio/)  
+🚀 https://kaifkhan1234.github.io/MyPortfolio/
 *(Replace with your GitHub Pages or deployed link)*
 
 ---
